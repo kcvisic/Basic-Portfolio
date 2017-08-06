@@ -30,7 +30,7 @@ p {
 
 #window {
     width: 300px;
-    height: 100%;
+    height: 350px;
     margin-left: 50px;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -104,7 +104,26 @@ h3{
 
 }
 
+#box1{
+    display: flex;
+    width: 300px;
+    
+}
+#box2{
+    display: flex;
+    width: 300px;
+}
+#box3{
+    display: flex;
+    height: 150px;
+    width:300px;
+}
 
+.textColor{
+    color:  #777777;
+}
+#submit{
+    background-color: #4aaaa5;
+    color: white;
 
-
-
+}
