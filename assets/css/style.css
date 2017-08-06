@@ -1,0 +1,95 @@
+header {
+    box-shadow: 0px 2px 2px 0px gainsboro;
+    background-color: white;
+}
+
+#name {
+    background-color: #4aaaa5;
+    color: white;
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    font-size: large;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 10%;
+    font-family: 'Georgia', Times, Times New Roman Times, serif;
+}
+
+body {
+    margin: 0px;
+    background-color: rgb(216, 216, 216);
+    ;
+}
+
+p {
+    font-family: Times, Times New Roman Times, serif;
+    color: #777777;
+    margin-left: 5px
+}
+
+#window {
+    width: 400px;
+    height: 100%;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: white;
+    padding-bottom: 50px;
+    display: inline-block;
+}
+
+#window-connect-with-me {
+    display: inline-block;
+    background-color: white;
+    width: 300px;
+    vertical-align: top;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.logo-connect {
+    width: 50px;
+    height: 50px;
+}
+
+#container-logos {
+    display: flex;
+    justify-content: center;
+}
+
+#container-logos>img {
+    margin: 5px;
+}
+
+#AboutMe {
+    color: #4aaaa5;
+}
+
+.navigation {
+    text-align: right;
+    margin-right: 15px;
+}
+
+.navigation>li {
+    display: inline;
+    padding-right: 10px;
+}
+
+.navigation>li>a {
+    text-decoration: none;
+    color: #a2a2a2;
+}
+
+.container {
+    padding: 1px 32px;
+}
+
+#icon {
+    margin-right: 15px;
+    border-radius: 15px;
+}
+
+.links {
+    width: 100%;
+}
