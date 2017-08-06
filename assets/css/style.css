@@ -19,8 +19,9 @@ header {
 body {
     margin: 0px;
     background-color: rgb(216, 216, 216);
-    ;
-}
+
+   
+   }
 
 p {
     font-family: Times, Times New Roman Times, serif;
@@ -49,8 +50,8 @@ p {
 }
 
 .logo-connect {
-    width: 20px;
-    height: 20px;
+    width: 25px;
+    height: 25px;
 }
 
 #container-logos {
@@ -126,4 +127,10 @@ h3{
     background-color: #4aaaa5;
     color: white;
 
+}
+img{
+    padding-bottom: 5px;
+    margin:20px;
+    padding-left:2px;
+    padding-right: 3px;
 }
