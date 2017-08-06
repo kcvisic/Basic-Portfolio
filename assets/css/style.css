@@ -29,7 +29,7 @@ p {
 }
 
 #window {
-    width: 400px;
+    width: 300px;
     height: 100%;
     margin-left: 50px;
     margin-top: 30px;
@@ -42,15 +42,15 @@ p {
 #window-connect-with-me {
     display: inline-block;
     background-color: white;
-    width: 300px;
+    width: 200px;
     vertical-align: top;
     margin-top: 30px;
     margin-left: 30px;
 }
 
 .logo-connect {
-    width: 50px;
-    height: 50px;
+    width: 20px;
+    height: 20px;
 }
 
 #container-logos {
@@ -82,7 +82,7 @@ p {
 }
 
 .container {
-    padding: 1px 32px;
+    padding: 1px 10px;
 }
 
 #icon {
@@ -93,3 +93,18 @@ p {
 .links {
     width: 100%;
 }
+h3{
+    color: #4aaaa5;
+}
+.Content{
+    width:960px;
+
+}
+.MainContent{
+
+}
+
+
+
+
+
