@@ -16,6 +16,7 @@ header {
     margin-bottom: 0px;
     margin-left: 10%;
     font-family: 'Georgia', Times, Times New Roman Times, serif;
+    
 }
 
 body {
@@ -23,6 +24,8 @@ body {
     margin: 0 auto;
     background-color: rgb(216, 216, 216);
     background-image: url("../images/background.png");
+
+
 
 
 }
@@ -47,13 +50,16 @@ p {
 #window-connect-with-me {
     display: inline-block;
     background-color: white;
-    width: 200px;
+    width: 300px;
     vertical-align: top;
     margin-top: 30px;
     margin-left: 30px;
     height: 130px;
 }
-
+#footer{
+ 
+    color: #777777;
+}
 .logo-connect {
     width: 25px;
     height: 25px;
@@ -109,7 +115,7 @@ h3 {
     width: 960px;
 }
 
-.MainContent {}
+
 
 #box1 {
     display: flex;
